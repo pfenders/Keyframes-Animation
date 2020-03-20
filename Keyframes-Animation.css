@@ -21,6 +21,7 @@ p{
     50%{
         color:yellow ;
         font-size: 40px;
+         transform: translateX(200px); /*move the item accross the screen */
     }
     75%{
         color: green ;
